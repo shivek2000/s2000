@@ -96,7 +96,7 @@ h5 {
 }
 
 h6 {
-  color: var(--primary-color);
+  color: #80d0c7;
   font-size: var(--h6-font-size);
 }
 
@@ -296,6 +296,7 @@ strong {
 .navbar-brand,
 .navbar-brand:hover {
   font-size: var(--h3-font-size);
+  color: hsl(178, 50%, 52%);
   font-weight: var(--font-weight-bold);
   display: block;
 }
@@ -399,7 +400,7 @@ strong {
 }
 
 .navbar-icon {
-  background: var(--white-color);
+  background:url("/images/logo.png");
   border-radius: var(--border-radius-large);
   display: inline-block;
   font-size: var(--h5-font-size);
@@ -411,7 +412,7 @@ strong {
 }
 
 .navbar-icon:hover {
-  background: var(--primary-color);
+  background:url("/images/logo.png");
   color: var(--white-color);
 }
 

@@ -40,7 +40,9 @@
 *::after {
   box-sizing: border-box;
 }
-
+a.navbar-brand img {
+  margin-right: 10px;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
